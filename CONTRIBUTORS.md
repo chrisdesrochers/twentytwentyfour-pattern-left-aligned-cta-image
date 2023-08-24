@@ -4,3 +4,4 @@
 | --------------- | --------------------- |
 | @MaggieCabrera | @onemaggie |
 | @luminuu | @luminuu |
+| @chrisdesrochers | @chrisdesrochers |
